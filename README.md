@@ -1,24 +1,13 @@
-# README
+# The Gossip Project - Associations entre models de BDD
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+sur ce super réseau social, un utilisateur va s'inscrire, renseigner son prénom et nom, son mail et son age, puis il précisera sa ville avec une recherche par code postal.
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+Je n'ai malheureusement pas pu faire ce projet de THP, il n'y a que l'application rails qui a été créée.
 
-* System dependencies
 
-* Configuration
 
-* Database creation
+## Authors
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* **Bénédicte Diumula** - *Moussaillonne THP* 
